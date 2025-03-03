@@ -8,11 +8,11 @@ body{
     margin:auto;
     background-color: whitesmoke;
 }
-.judul1 .h1{ 
+.judul1 h1{ 
     padding: 20px;
     text-align: center;
     font-family: 'Times New Roman';
-    font-size: 40;
+    font-size: 40px;
     font-weight: bold;
 }
 .judul1 ul li{
