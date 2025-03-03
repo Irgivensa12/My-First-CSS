@@ -6,7 +6,7 @@ body{
 .container{
     width: 800px;
     margin:auto;
-    background-color:rgb(255, 228, 196) ;
+    background-color: whitesmoke;
 }
 .judul1 .h1{ 
     padding: 20px;
@@ -14,4 +14,18 @@ body{
     font-family: 'Times New Roman';
     font-size: 40;
     font-weight: bold;
+}
+.judul1 ul li{
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.judul1 a{
+    text-decoration: none;
+    color:orchid;
+    padding: 3px;
+}
+.judul1 a:hover{
+    background-color: bisque;
+    color: blue;
 }
