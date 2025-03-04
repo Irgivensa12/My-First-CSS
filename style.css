@@ -17,7 +17,7 @@ body{
 }
 .judul1 ul li{
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 10px;
     margin-right: 10px;
 }
 .judul1 a{
@@ -31,4 +31,14 @@ body{
 }
 .Identitas{
     text-align: left;
+}
+.footer{
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.footer .isifooter{
+    color: orchid;
+    text-align: center;
+    font-size: 15px;
+    font-family: serif;
 }
