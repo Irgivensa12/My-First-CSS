@@ -3,8 +3,58 @@ body{
     font-family: 'Times New Roman';
     font-size: 20;
 }
+<<<<<<< HEAD
 .judul1{
     text-align: center;
     font-family: 'Times New Roman';
     font-size: 14;
+=======
+.container{
+    width: 800px;
+    margin:auto;
+    background-color: whitesmoke;
+}
+.judul1 h1{ 
+    padding: 20px;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    font-weight: bold;
+}
+.judul1 ul li{
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.judul1 a{
+    text-decoration: none;
+    color:orchid;
+    padding: 3px;
+}
+.judul1 a:hover{
+    background-color: bisque;
+    color: blue;
+}
+.Identitas{
+    text-align: left;
+}
+.gambardiri{
+    margin-bottom: 20px;
+}
+.Identitas table{
+    margin-top: 20px;
+}
+.footer{
+    background-color: whitesmoke;
+    padding: 10px;
+}
+.footer .isifooter{
+    color: orchid;
+    text-align: center;
+    font-size: 15px;
+    font-family: serif;
+}
+.Pendidikan h3{
+    margin-left: 3px;
+>>>>>>> css
 }
